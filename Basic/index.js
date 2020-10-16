@@ -1,4 +1,3 @@
-// Callback Functions
 const fetchData = (userId, callback) => {
     setTimeout(() => {
         const fakeData = {
